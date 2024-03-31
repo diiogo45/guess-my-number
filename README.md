@@ -19,5 +19,5 @@ As seguintes tecnologias foram usadas na construção do projeto:
 ### 📷 Prints:
 
 #### Desktop:
-<img src="https://i.ibb.co/8xsp5yh/mobile.gif" width="30%"></img> 
+<img src="https://i.ibb.co/GkLnhCD/guess-my-number.png" width="30%"></img> 
 
